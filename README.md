@@ -4,6 +4,7 @@ QGIS Training Materials
 
 ESRGC's Open Source Workshop and Quantum GIS Tutorial at TUGIS 2013
 
+Data:
 * bk79.shp - Richland County, SC census blocks; 
 * firestat.shp - Richland County, SC firestations; 
 * istates.shp - Richland County, SC interstate roadways; 
