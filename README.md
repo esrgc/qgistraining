@@ -16,3 +16,13 @@ Data:
 * tri92.shp - Richland County, SC Toxic Release Inventory (TRI) facilities/plants; 
 * ushwys.shp - Richland County, SC US Highways; 
 * databk79.dbf - Richland County, SC demographics database table;
+ 
+
+Instructions:
+
+1. Select - Zip icon
+2. The Zipped data file will download onto your local drive
+3. Select - qgistraining-master.zip
+4. Select - Extract All
+5. Extracted file will appear as qgistraining-master
+6. Download to appropriate local drive for uploading into Quantum
