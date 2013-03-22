@@ -6,7 +6,7 @@ ESRGC's Open Source Workshop and Quantum GIS Tutorial at TUGIS 2013
 
 Workbooks and more info available at [http://www.esrgc.org/training/](http://www.esrgc.org/training/)
 
-Data:
+__Data:__
 * bk79.shp - Richland County, SC census blocks; 
 * firestat.shp - Richland County, SC firestations; 
 * istates.shp - Richland County, SC interstate roadways; 
@@ -18,7 +18,7 @@ Data:
 * databk79.dbf - Richland County, SC demographics database table;
  
 
-Instructions:
+__Instructions:__
 
 1. Select - Zip icon
 2. The Zipped data file will download onto your local drive
