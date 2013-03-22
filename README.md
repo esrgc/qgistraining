@@ -25,4 +25,4 @@ __Instructions:__
 3. Select - qgistraining-master.zip
 4. Select - Extract All
 5. Extracted file will appear as qgistraining-master
-6. Download to appropriate local drive for uploading into Quantum
+6. Download to appropriate local drive for loading into Quantum
