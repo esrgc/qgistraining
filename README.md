@@ -4,6 +4,8 @@ QGIS Training Materials
 
 ESRGC's Open Source Workshop and Quantum GIS Tutorial at TUGIS 2013
 
+Workbooks and more info available at [http://www.esrgc.org/training/](http://www.esrgc.org/training/)
+
 Data:
 * bk79.shp - Richland County, SC census blocks; 
 * firestat.shp - Richland County, SC firestations; 
